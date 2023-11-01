@@ -21,7 +21,7 @@ Also delete package.lock file before you run your project.
 ### Git clone
 This will clone the project, install NPM packages and also the Cypres.io which is required to run the test. No Selenium Server is required.
 ```
-$ git clone https://github.com/Kar1stan/TelnyxTest.git
+$ git clone git@github.com:BryanAlexMercado/Test_Cypress.io_Telnyx.git
 $ cd TelnyxTest
 $ npm install
 ```
